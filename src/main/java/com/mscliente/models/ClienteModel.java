@@ -22,4 +22,6 @@ public class ClienteModel implements Serializable {
     @Email
     private String email;
 
+    
+
 }
